@@ -3424,3 +3424,85 @@ a.explore:hover {
         height: 43px;
     }
 }
+.htreq{
+    height: 50px;
+    background-color: #E6ECEF;
+    text-align: left;
+    padding: 10px;
+    color: black;
+    font-size: 2opx;
+
+}
+a:hover{
+    color: #4F9DE3;
+    text-decoration: none;
+}
+a{
+    color:black;
+}
+.backgrou{
+    background-image:url('components/univ.jpg');
+    height: 300px;
+}
+
+.btn-def {
+    font-size: 14px;
+    padding: 6px 12px;
+    margin-bottom: 0;
+
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+}
+.my-own{
+    padding-left: 9%;
+    padding-top:3%;
+    padding-right:7%;
+    padding-bottom: 2%;
+}
+.rowpad{
+    padding: 2% 7% 0 9%;
+    align-items: center;
+}
+.social-container {
+    background: #eee;
+    padding: 25px 50px;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  a.social:hover {
+    transform: translateY(-2px);
+    
+  }
+  .youtube {
+    color: #353535;
+    background-image: radial-gradient(circle at 23% 84%, #f9ed32, #f8d939 5%, #f5a54d 17%, #f0536c 33%, #ee2a7b 40%, #9e2aa7 56%, #5b2acd 72%, #2a2ae8 85%, #0b2af9 95%, #002aff);
+
+  }
+  
+  a.facebook {
+    color: #353535;
+  }
+  
+  a.twitter {
+    color: #353535;
+  }
+  
+  a.instagram {
+    color: #353535;
+    
+  }
