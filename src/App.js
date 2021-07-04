@@ -1,20 +1,9 @@
-import './App.css';
-import Banner from './components/Banner';
-import Freedemo from './components/Freedemo';
-import Top from './components/Top';
-import Socials from './components/Socials';
-import SocialFollow from "./SocialFollow"
+import React from 'react'
 
-function App() {
+export const App = () => {
   return (
-    <>
-    <Top/>
-    <Banner/>
-    <Freedemo/>
-    
-    <SocialFollow />  
-    </>
-  );
+    <div>
+      
+    </div>
+  )
 }
-
-export default App;
